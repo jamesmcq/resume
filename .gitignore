@@ -1,0 +1,13 @@
+nbproject/private/
+personal/
+build/
+vendor/
+dev/ant/cache.properties
+composer.lock
+*_phplog.php
+*.sublime-*
+.tags
+.tags*
+.idea/
+tags
+*.swp

@@ -1,0 +1,9 @@
+{
+    "name": "jamesmcq/resume",
+    "description": "My resume",
+    "license": "proprietary",
+    "require": {
+        "php": ">=7.4.0",
+        "michelf/php-markdown": "2.0.*"
+    }
+}
