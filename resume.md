@@ -1,14 +1,14 @@
-# James McQuillan {#title}
+# James McQuillan
 
 - **Email** [james@jamesmcq.com](mailto:james@jamesmcq.com)
 - **Phone** 416.648.1197
-- **GitHub** [https://github.com/jamesmcq](https://github.com/jamesmcq)
-- **LinkedIn** [https://ca.linkedin.com/in/jamesmcq](https://ca.linkedin.com/in/jamesmcq)
+- **GitHub** [github.com/jamesmcq](https://github.com/jamesmcq)
+- **LinkedIn** [linkedin.com/in/jamesmcq](https://ca.linkedin.com/in/jamesmcq)
 
-## Summary {#summary}
+## Summary
 I am an experienced developer that is passionate about creating exciting products. I have led a team, oversaw and developed many products, and implemented solutions to ensure the success of my team. I am looking to be a valuable asset to a company building great things.
 
-## Areas of Expertise {#expertise}
+## Expertise
 - PHP Software Development
 - Swift / iOS Software Development
 - Modern Web Development
@@ -23,7 +23,7 @@ I am an experienced developer that is passionate about creating exciting product
 - Agile / Scrum Methodologies
 - Software Architecture
 
-## Experience {#experience}
+## Experience
 
 ### Team Lead, Products Team
 **Remote-Learner**
@@ -88,7 +88,7 @@ I am an experienced developer that is passionate about creating exciting product
 - Performed market research and client analysis to propose designs for the client trading site.
 - Created mock-ups for several other beta projects and advertisements for InvestorLine programs.
 
-## Technologies {#technicalskills}
+## Technologies
 - PHP 5 / 7
 - Swift 3 / 4
 - HTML5
@@ -97,7 +97,7 @@ I am an experienced developer that is passionate about creating exciting product
 - UIKit
 - SQL
 - Git
-- Moodle Development
+- Moodle Core + Plugin Development
 - API Design (REST, XML-RPC)
 - QA automation (Jenkins, PHPCS, PHPUnit, Behat)
 - JIRA (use + project admin)
