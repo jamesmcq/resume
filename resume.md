@@ -9,31 +9,54 @@
 I am an experienced developer that is passionate about creating exciting products. I have led a team, oversaw and developed many products, and implemented solutions to ensure the success of my team. I am looking to be a valuable asset to a company building great things.
 
 ## Expertise
-- PHP Software Development
+- PHP Web Development
 - Swift / iOS Software Development
-- Modern Web Development
-- User Interface Design
+- Team Leadership & Mentoring
+- NodeJs Web Development
+- Web Design incl. Mobile & Responsive Design
+- API Design & Integration
 - Development and QA Automation
-- API Design
-- User Experience Design
 - Educational Software Development
 - Open Source Development
-- Project / Product Management
-- Mobile Web Development and Responsive Design
 - Agile / Scrum Methodologies
-- Software Architecture
+- Modern dev practices incl. Git & Docker
 
 ## Experience
 
+### Senior Software Developer, Authoring
+**Learning Pool**
+*September 2022 - August 2024*
+
+Senior software developer on course authoring tools team, sharing extensive development experience to drive the team forward.
+
+- Contributed extensive development knowledge to improve code base and add innovative new features.
+- Worked closely with QA to improve unit testing, code coverage, and explore LLM-assisted testing.
+- Implemented projects to introduce CI/CD and dockerization.
+- Provided ongoing consultation on Microsoft's Office 365/Moodle integration, ensuring continuing success.
+- ***Selected Skills:** NodeJS, AngularJS, Automated testing, CI/CD, LLM integration.*
+
+### Team Lead, North America Development
+**Learning Pool**
+*December 2020 - September 2022*
+
+Led the North America Development team at Learning Pool, a team of 5 specializing in open-source educational tools based on Moodle.
+
+- Mentored junior developers, set development processes, and led product architecture and development.
+- Managed releases and documentation.
+- Consulted with product managers and support on product direction.
+- Provided experienced consultation on Microsoft's Office 365/Moodle integration, as well as additional integration solutions.
+- ***Selected Skills:** Team Leadership, Mentoring, Jenkins, Product Management, Software Architecture.*
+
 ### Team Lead, Products Team
 **Remote-Learner**
-*February 2016 - Present*
+*February 2016 - December 2020*
 
-- Led a team of 4 responsible for the company's software products.
-- Architected and led development on numerous products.
-- Advised management on product direction.
-- Designed and implemented development and testing automation to increase developer efficiency and product quality.
-- Mentored newer team members to ensure success.
+Led a team of 4 responsible for development of the company's software products.
+
+- Led product software architecture and served as technical first point of contact for executives, PMs, and support.
+- Mentored junior developers with one-on-one training, code reviews, and guidance.
+- Implemented automated code review using Jenkins and custom code to improve code quality and developer efficiency.
+- ***Selected Skills:** Team Leadership, Mentoring, Jenkins, Product Management, Software Architecture.*
 
 ### Creator, Inspect Browser
 *January 2017 - Present*
@@ -47,11 +70,13 @@ I am an experienced developer that is passionate about creating exciting product
 **Remote-Learner**
 *September 2014 - February 2016*
 
-- Led development on a project to plan, develop, and release a suite of plugins to integrate Office 365 with the Moodle learning management system.
-- Worked with Microsoft to achieve strategic goals, while guiding the roadmap to work with Moodle.
+Led a team of 3 on a project to plan, develop, and release a suite of plugins to integrate Office 365 to the Moodle learning management system.
+
+- Worked closely with Microsoft to achieve strategic goals, while guiding the roadmap to work with Moodle.
 - Extensive use of Office 365 REST APIs and OpenID Connect/OAuth2.
 - Provided ongoing community and client support and served as the community liaison to help define new features.
 - Development was done completely open-source - all development visible on Github.
+- ***Selected Skills:** Team Leadership, GitHub, OpenID Connect, Microsoft Graph API.*
 
 ### Head of Software Architecture, ELIS Product
 **Remote-Learner**
@@ -59,20 +84,24 @@ I am an experienced developer that is passionate about creating exciting product
 
 - Led software architecture for ELIS, the company's flagship product.
 - Executed a significant redesign project to improve UI/UX, user customization, and custom development opportunities.
-- Promoted the use of modern, advanced PHP development principles including modular programming, PHP autoloading, and namespacing.
+- Planned and implemented the use of modern, advanced PHP development principles including modular programming, PHP autoloading, and namespacing.
 - Promoted the use of modern front-end design principles including responsive and mobile-ready design, SASS-preprocessing, and data-scalable interfaces.
 
 ### Full-Stack Web Developer
 **Remote-Learner**
 *September 2011 - June 2014*
 
-- Led a redesign of a significant portion of the company's flagship product.
-- Analyzed UI scalability issues and implemented solutions.
-- Reworked problem areas of the code to provide stable, maintainable code.
+- Designed and developed major new features from start-to-finish.
+- Extensive use of quality-assurance tools (Jenkins CI, PHPUnit, etc).
+- Designed and implemented a dynamic, scalable interface to manage from dozens to hundreds-of-thousands of entities, include efficiency-critical backend code.
+- Worked in a highly agile environment.
+- Worked with JIRA and Confluence for bug tracking and documentation.
 
-### Founder, Lead Developer
+### Founder, Developer
 **Metacast**
 *September 2008 - September 2011*
+
+Metacast was a news, podcast, and video podcast aggregator and organizer design to create "channels" from web content. Metacase created streams filled with internet content allowing for shared experiences among viewers.
 
 - Created and launched over 8 months during residence at Velocity, the University of Waterloo's startup incubator.
 - Designed and developed business and product from start to finish.
@@ -89,20 +118,21 @@ I am an experienced developer that is passionate about creating exciting product
 - Created mock-ups for several other beta projects and advertisements for InvestorLine programs.
 
 ## Technologies
-- PHP 5 / 7
-- Swift 3 / 4
+- PHP 7 / 8
+- Swift 5
 - HTML5
 - CSS / SCSS
-- Javascript (Plain + jQuery)
+- NodeJS
+- JavaScript (Plain, jQuery, VueJS)
 - UIKit
 - SQL
 - Git
 - Moodle Core + Plugin Development
-- API Design (REST, XML-RPC)
-- QA automation (Jenkins, PHPCS, PHPUnit, Behat)
+- API Design + Consumption (REST, XML-RPC)
+- QA automation (Jenkins, PHPCS, PHPUnit, Behat, Jasmine)
 - JIRA (use + project admin)
 - Github/Gitlab
-- Linux
+- Linux (Admin, Vim, tmux)
 - OAuth2/OpenID Connect
 - Azure, Office 365, SharePoint APIs
 - Amazon Web Services
@@ -110,9 +140,9 @@ I am an experienced developer that is passionate about creating exciting product
 ## Publications & Press
 
 ### Inside the QA Process at Remote-Learner
-**Company blog post, November 2017**
+**Company blog post, November 2017 (Archive)**
 
-[https://www.remote-learner.com/qa-process/](https://www.remote-learner.com/qa-process/)
+[https://web.archive.org/web/20200929000132/https://www.remote-learner.com/qa-process/](https://web.archive.org/web/20200929000132/https://www.remote-learner.com/qa-process/)
 
 ### Office 365 Developer Podcast
 **Episode 089: Interview on Moodle Office 365 integration**
