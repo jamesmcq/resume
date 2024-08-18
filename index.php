@@ -1,6 +1,6 @@
 <?php
 require_once(__DIR__.'/vendor/autoload.php');
-$markdown = file_get_contents(__DIR__.'/resume.md');
+$markdown = file_get_contents(__DIR__.'/README.md');
 $resume = \Michelf\MarkdownExtra::defaultTransform($markdown);
 ?>
 <html>
