@@ -65,6 +65,7 @@ Led a team of 4 responsible for development of the company's software products.
 - Taught myself Swift and iOS development.
 - Grew the product through market research, user feedback, and my own needs.
 - Currently available at: [https://appsto.re/ca/oBwVhb](https://appsto.re/ca/oBwVhb)
+- ***Selected Skills:** Swift, iOS Development, Product Management, Software Architecture, Web APIs.*
 
 ### Team Lead/Lead Developer, Microsoft-Moodle Integration
 **Remote-Learner**
