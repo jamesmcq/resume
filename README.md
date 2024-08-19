@@ -125,6 +125,7 @@ Metacast was a news, podcast, and video podcast aggregator and organizer design 
 - CSS / SCSS
 - NodeJS
 - JavaScript (Plain, jQuery, VueJS)
+- TypeScript
 - UIKit
 - SQL
 - Git
