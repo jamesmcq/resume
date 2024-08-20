@@ -33,7 +33,7 @@ Senior software developer on course authoring tools team, sharing extensive deve
 - Worked closely with QA to improve unit testing, code coverage, and explore LLM-assisted testing.
 - Implemented projects to introduce CI/CD and dockerization.
 - Provided ongoing consultation on Microsoft's Office 365/Moodle integration, ensuring continuing success.
-- ***Selected Skills:** NodeJS, AngularJS, Automated testing, CI/CD, LLM integration.*
+- ***Selected Skills:** NodeJS, AngularJS, TypeScript, MongoDB, Automated testing, CI/CD, LLM integration.*
 
 ### Team Lead, North America Development
 **Learning Pool**
@@ -45,7 +45,7 @@ Led the North America Development team at Learning Pool, a team of 5 specializin
 - Managed releases and documentation.
 - Consulted with product managers and support on product direction.
 - Provided experienced consultation on Microsoft's Office 365/Moodle integration, as well as additional integration solutions.
-- ***Selected Skills:** Team Leadership, Mentoring, Jenkins, Product Management, Software Architecture.*
+- ***Selected Skills:** Team Leadership, Mentoring, PHP, MySQL, Jenkins, Product Management, Software Architecture.*
 
 ### Team Lead, Products Team
 **Remote-Learner**
@@ -56,7 +56,7 @@ Led a team of 4 responsible for development of the company's software products.
 - Led product software architecture and served as technical first point of contact for executives, PMs, and support.
 - Mentored junior developers with one-on-one training, code reviews, and guidance.
 - Implemented automated code review using Jenkins and custom code to improve code quality and developer efficiency.
-- ***Selected Skills:** Team Leadership, Mentoring, Jenkins, Product Management, Software Architecture.*
+- ***Selected Skills:** Team Leadership, Mentoring, PHP, MySQL, Jenkins, Product Management, Software Architecture.*
 
 ### Creator, Inspect Browser
 *January 2017 - Present*
@@ -77,7 +77,7 @@ Led a team of 3 on a project to plan, develop, and release a suite of plugins to
 - Extensive use of Office 365 REST APIs and OpenID Connect/OAuth2.
 - Provided ongoing community and client support and served as the community liaison to help define new features.
 - Development was done completely open-source - all development visible on Github.
-- ***Selected Skills:** Team Leadership, GitHub, OpenID Connect, Microsoft Graph API.*
+- ***Selected Skills:** Team Leadership, PHP, MySQL, GitHub, OpenID Connect, Microsoft Graph API.*
 
 ### Head of Software Architecture, ELIS Product
 **Remote-Learner**
@@ -87,6 +87,7 @@ Led a team of 3 on a project to plan, develop, and release a suite of plugins to
 - Executed a significant redesign project to improve UI/UX, user customization, and custom development opportunities.
 - Planned and implemented the use of modern, advanced PHP development principles including modular programming, PHP autoloading, and namespacing.
 - Promoted the use of modern front-end design principles including responsive and mobile-ready design, SASS-preprocessing, and data-scalable interfaces.
+- ***Selected Skills:** PHP, MySQL, jQuery, CSS, Software Architecture.*
 
 ### Full-Stack Web Developer
 **Remote-Learner**
@@ -97,6 +98,7 @@ Led a team of 3 on a project to plan, develop, and release a suite of plugins to
 - Designed and implemented a dynamic, scalable interface to manage from dozens to hundreds-of-thousands of entities, include efficiency-critical backend code.
 - Worked in a highly agile environment.
 - Worked with JIRA and Confluence for bug tracking and documentation.
+- ***Selected Skills:** PHP, MySQL, jQuery, CSS, Software Architecture.*
 
 ### Founder, Developer
 **Metacast**
