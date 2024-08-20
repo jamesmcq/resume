@@ -132,7 +132,7 @@ Metacast was a news, podcast, and video podcast aggregator and organizer design 
 - Git
 - Moodle Core + Plugin Development
 - API Design + Consumption (REST, XML-RPC)
-- QA automation (Jenkins, PHPCS, PHPUnit, Behat, Jasmine)
+- QA automation (Jenkins, PHPCS, PHPUnit, Behat, Jest, Jasmine)
 - JIRA (use + project admin)
 - Github/Gitlab
 - Linux (Admin, Vim, tmux)
